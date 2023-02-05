@@ -1,0 +1,2 @@
+time-14:12/20/22:12:14:10 | Train loss. 0.0004 | Train acc 1.0000 | Val loss. 0.1041 | Val acc 0.9583
+time-44:12/26/22:17:44:08 | Train loss. 0.0003 | Train acc 1.0000 | Val loss. 0.2060 | Val acc 0.9444

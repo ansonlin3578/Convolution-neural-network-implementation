@@ -1,0 +1,16 @@
+time-02:12/20/22:12:02:51 | Train loss. 0.0994 | Train acc 0.9734 | Val loss. 0.1199 | Val acc 0.9630
+time-40:12/26/22:15:40:04 | Train loss. 0.1104 | Train acc 0.9722 | Val loss. 0.2662 | Val acc 0.8981
+time-41:12/26/22:15:41:15 | Train loss. 0.1098 | Train acc 0.9688 | Val loss. 0.2218 | Val acc 0.9306
+time-22:12/26/22:17:22:48 | Train loss. 0.0828 | Train acc 0.9850 | Val loss. 0.1556 | Val acc 0.9352
+time-38:12/26/22:17:38:21 | Train loss. 0.0685 | Train acc 0.9861 | Val loss. 0.2132 | Val acc 0.9491
+time-40:12/26/22:17:40:43 | Train loss. 0.1181 | Train acc 0.9595 | Val loss. 0.1490 | Val acc 0.9352
+time-03:12/26/22:18:03:25 | Train loss. 0.0950 | Train acc 0.9711 | Val loss. 0.1859 | Val acc 0.9120
+time-59:12/27/22:20:59:45 | Train loss. 0.1169 | Train acc 0.9514 | Val loss. 0.3084 | Val acc 0.8843
+time-40:12/27/22:21:40:15 | Train loss. 0.0789 | Train acc 0.9711 | Val loss. 0.2934 | Val acc 0.8981
+time-57:12/27/22:21:57:45 | Train loss. 0.0956 | Train acc 0.9630 | Val loss. 0.3914 | Val acc 0.8750
+time-04:12/27/22:22:04:47 | Train loss. 0.0878 | Train acc 0.9745 | Val loss. 0.3189 | Val acc 0.8843
+time-43:12/27/22:22:43:07 | Train loss. 0.0951 | Train acc 0.9850 | Val loss. 0.3050 | Val acc 0.9074
+time-06:12/27/22:23:06:05 | Train loss. 0.2110 | Train acc 0.9479 | Val loss. 0.4367 | Val acc 0.8519
+time-34:12/27/22:23:34:01 | Train loss. 0.1212 | Train acc 0.9792 | Val loss. 0.2904 | Val acc 0.8843
+time-35:12/27/22:23:35:34 | Train loss. 0.1088 | Train acc 0.9792 | Val loss. 0.3886 | Val acc 0.8611
+time-37:12/27/22:23:37:05 | Train loss. 0.0965 | Train acc 0.9850 | Val loss. 0.2886 | Val acc 0.8935
